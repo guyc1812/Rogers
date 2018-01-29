@@ -1,4 +1,4 @@
-import com.avengers.steven.config.CoreConfig;
+import com.avengers.Rogers.config.CoreConfig;
 import org.junit.runner.RunWith;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
