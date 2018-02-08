@@ -1,0 +1,30 @@
+{
+    "category"    : "Rogers",
+    "index" : [
+        {
+            "category": "Rogers",
+            "title":    "Factory Pattern",
+            "path":     "",
+            "nav":      "",
+            "status":   310,
+            "items":    [
+                {
+                    "category": "Rogers",
+                    "title":    "Factory Method",
+                    "path":     "",
+                    "nav":      "FactoryPattern-FactoryMethod",
+                    "status":   310,
+                    "items":    []
+                },{
+                    "category": "Rogers",
+                    "title":    "Abstract Factory",
+                    "path":     "",
+                    "nav":      "FactoryPattern-AbstractFactory",
+                    "status":   310,
+                    "items":    []
+                }
+            ]
+        }
+    
+    ]
+}
