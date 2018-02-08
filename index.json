@@ -18,7 +18,7 @@
                 },{
                     "category": "Rogers",
                     "title":    "Abstract Factory",
-                    "path":     "",
+                    "path":     "src/main/java/com/avengers/Rogers/DesignPattern/Factory/AbstractFactory/README.md",
                     "nav":      "FactoryPattern-AbstractFactory",
                     "status":   310,
                     "items":    []
