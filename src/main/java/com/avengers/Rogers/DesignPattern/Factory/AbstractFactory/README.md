@@ -6,7 +6,7 @@ Abstract factory offers the interface for creating a family of related objects,<
 without explicitly specifying their classes.<br>
 We can simply say that it is higher level of abstraction of factory pattern.<br>
 
-## In jdk
+## In JDK
 
 * java.util.Calendar#getInstance()
 * java.util.Arrays#asList()
