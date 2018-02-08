@@ -11,7 +11,7 @@
                 {
                     "category": "Rogers",
                     "title":    "Factory Method",
-                    "path":     "",
+                    "path":     "src/main/java/com/avengers/Rogers/DesignPattern/Factory/FactoryMethod/README.md",
                     "nav":      "FactoryPattern-FactoryMethod",
                     "status":   310,
                     "items":    []
