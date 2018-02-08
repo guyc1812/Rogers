@@ -7,7 +7,7 @@ This type of design pattern comes under creational pattern as this pattern provi
 
 In Factory pattern, we create object without exposing the creation logic to the client and refer to newly created object using a common interface.
 
-##In JSDK
+## In JSDK
 
 * java.lang.Object#toString() (overrideable in all subclasses)
 * java.lang.Class#newInstance()
