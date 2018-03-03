@@ -10,21 +10,174 @@
             "items":    [
                 {
                     "category": "Rogers",
+                    "title":    "Simple Factory",
+                    "path":     "src/main/java/com/avengers/Rogers/docs/Factory_SimpleFactory.md",
+                    "nav":      "FactoryPattern-SimpleFactory",
+                    "status":   310,
+                    "items":    []
+                },{
+                    "category": "Rogers",
                     "title":    "Factory Method",
-                    "path":     "src/main/java/com/avengers/Rogers/DesignPattern/Factory/FactoryMethod/README.md",
+                    "path":     "src/main/java/com/avengers/Rogers/docs/Factory_FactoryMethod.md",
                     "nav":      "FactoryPattern-FactoryMethod",
                     "status":   310,
                     "items":    []
                 },{
                     "category": "Rogers",
                     "title":    "Abstract Factory",
-                    "path":     "src/main/java/com/avengers/Rogers/DesignPattern/Factory/AbstractFactory/README.md",
+                    "path":     "src/main/java/com/avengers/Rogers/docs/Factory_AbstractFactory.md",
                     "nav":      "FactoryPattern-AbstractFactory",
                     "status":   310,
                     "items":    []
                 }
             ]
+        },{
+            "category": "Rogers",
+            "title":    "Singleton Pattern",
+            "path":     "src/main/java/com/avengers/Rogers/docs/Singleton.md",
+            "nav":      "SingletonPattern",
+            "status":   310,
+            "items":    []
+        },{
+            "category": "Rogers",
+            "title":    "Builder Pattern",
+            "path":     "src/main/java/com/avengers/Rogers/docs/Builder.md",
+            "nav":      "BuilderPattern",
+            "status":   310,
+            "items":    []
+        },{
+            "category": "Rogers",
+            "title":    "Prototype Pattern",
+            "path":     "src/main/java/com/avengers/Rogers/docs/Prototype.md",
+            "nav":      "PrototypePattern",
+            "status":   310,
+            "items":    []
+        },{
+            "category": "Rogers",
+            "title":    "Adapter Pattern",
+            "path":     "src/main/java/com/avengers/Rogers/docs/Adapter.md",
+            "nav":      "AdapterPattern",
+            "status":   310,
+            "items":    []
+        },{
+            "category": "Rogers",
+            "title":    "Decorator Pattern",
+            "path":     "src/main/java/com/avengers/Rogers/docs/Decorator.md",
+            "nav":      "DecoratorPattern",
+            "status":   310,
+            "items":    []
+        },{
+            "category": "Rogers",
+            "title":    "Proxy Pattern",
+            "path":     "src/main/java/com/avengers/Rogers/docs/Proxy.md",
+            "nav":      "ProxyPattern",
+            "status":   310,
+            "items":    []
+        },{
+            "category": "Rogers",
+            "title":    "Facade Pattern",
+            "path":     "src/main/java/com/avengers/Rogers/docs/Facade.md",
+            "nav":      "FacadePattern",
+            "status":   310,
+            "items":    []
+        },{
+            "category": "Rogers",
+            "title":    "Bridge Pattern",
+            "path":     "src/main/java/com/avengers/Rogers/docs/Bridge.md",
+            "nav":      "BridgePattern",
+            "status":   310,
+            "items":    []
+        },{
+            "category": "Rogers",
+            "title":    "Composite Pattern",
+            "path":     "src/main/java/com/avengers/Rogers/docs/Compose.md",
+            "nav":      "CompositePattern",
+            "status":   310,
+            "items":    []
+        },{
+            "category": "Rogers",
+            "title":    "Flyweight Pattern",
+            "path":     "src/main/java/com/avengers/Rogers/docs/FlyWeight.md",
+            "nav":      "FlyweightPattern",
+            "status":   310,
+            "items":    []
+        },{
+            "category": "Rogers",
+            "title":    "Observer Pattern",
+            "path":     "src/main/java/com/avengers/Rogers/docs/Observer.md",
+            "nav":      "ObserverPattern",
+            "status":   310,
+            "items":    []
+        },{
+            "category": "Rogers",
+            "title":    "Strategy Pattern",
+            "path":     "src/main/java/com/avengers/Rogers/docs/Strategy.md",
+            "nav":      "StrategyPattern",
+            "status":   310,
+            "items":    []
+        },{
+            "category": "Rogers",
+            "title":    "Template Pattern",
+            "path":     "src/main/java/com/avengers/Rogers/docs/Template.md",
+            "nav":      "TemplatePattern",
+            "status":   310,
+            "items":    []
+        },{
+            "category": "Rogers",
+            "title":    "Visitor Pattern",
+            "path":     "src/main/java/com/avengers/Rogers/docs/Visitor.md",
+            "nav":      "VisitorPattern",
+            "status":   310,
+            "items":    []
+        },{
+            "category": "Rogers",
+            "title":    "Iterator Pattern",
+            "path":     "src/main/java/com/avengers/Rogers/docs/Iterator.md",
+            "nav":      "IteratorPattern",
+            "status":   310,
+            "items":    []
+        },{
+            "category": "Rogers",
+            "title":    "Chain of Responsibility",
+            "path":     "src/main/java/com/avengers/Rogers/docs/ChainOfResponsibility.md",
+            "nav":      "ChainOfResponsibility",
+            "status":   310,
+            "items":    []
+        },{
+            "category": "Rogers",
+            "title":    "Command Pattern",
+            "path":     "src/main/java/com/avengers/Rogers/docs/Command.md",
+            "nav":      "CommandPattern",
+            "status":   310,
+            "items":    []
+        },{
+            "category": "Rogers",
+            "title":    "Memento Pattern",
+            "path":     "src/main/java/com/avengers/Rogers/docs/Memento.md",
+            "nav":      "MementoPattern",
+            "status":   310,
+            "items":    []
+        },{
+            "category": "Rogers",
+            "title":    "State Pattern",
+            "path":     "src/main/java/com/avengers/Rogers/docs/State.md",
+            "nav":      "StatePattern",
+            "status":   310,
+            "items":    []
+        },{
+            "category": "Rogers",
+            "title":    "Mediator Pattern",
+            "path":     "src/main/java/com/avengers/Rogers/docs/Mediator.md",
+            "nav":      "MediatorPattern",
+            "status":   310,
+            "items":    []
+        },{
+            "category": "Rogers",
+            "title":    "Interpreter Pattern",
+            "path":     "src/main/java/com/avengers/Rogers/docs/Interpreter.md",
+            "nav":      "InterpreterPattern",
+            "status":   310,
+            "items":    []
         }
-    
     ]
 }
