@@ -3,7 +3,7 @@
     "index" : [
         {
             "category": "Rogers",
-            "title":    "Factory Pattern",
+            "title":    "Factory Pattern *",
             "path":     "",
             "nav":      "",
             "status":   310,
@@ -33,14 +33,14 @@
             ]
         },{
             "category": "Rogers",
-            "title":    "Singleton Pattern",
+            "title":    "Singleton Pattern *",
             "path":     "src/main/java/com/avengers/Rogers/docs/Singleton.md",
             "nav":      "SingletonPattern",
             "status":   310,
             "items":    []
         },{
             "category": "Rogers",
-            "title":    "Builder Pattern",
+            "title":    "Builder Pattern *",
             "path":     "src/main/java/com/avengers/Rogers/docs/Builder.md",
             "nav":      "BuilderPattern",
             "status":   310,
@@ -68,7 +68,7 @@
             "items":    []
         },{
             "category": "Rogers",
-            "title":    "Proxy Pattern",
+            "title":    "Proxy Pattern *",
             "path":     "src/main/java/com/avengers/Rogers/docs/Proxy.md",
             "nav":      "ProxyPattern",
             "status":   310,
@@ -82,7 +82,7 @@
             "items":    []
         },{
             "category": "Rogers",
-            "title":    "Bridge Pattern",
+            "title":    "Bridge Pattern *",
             "path":     "src/main/java/com/avengers/Rogers/docs/Bridge.md",
             "nav":      "BridgePattern",
             "status":   310,
@@ -96,14 +96,14 @@
             "items":    []
         },{
             "category": "Rogers",
-            "title":    "Flyweight Pattern",
+            "title":    "Flyweight Pattern *",
             "path":     "src/main/java/com/avengers/Rogers/docs/FlyWeight.md",
             "nav":      "FlyweightPattern",
             "status":   310,
             "items":    []
         },{
             "category": "Rogers",
-            "title":    "Observer Pattern",
+            "title":    "Observer Pattern *",
             "path":     "src/main/java/com/avengers/Rogers/docs/Observer.md",
             "nav":      "ObserverPattern",
             "status":   310,
