@@ -24,7 +24,7 @@ Proxy classes can implement many things in a convenient way without modifying th
 
 * Proxy Class
 
-    ```
+    ```java
     class CalculatorLogByProxy {
     
         // target to be proxied
@@ -44,7 +44,7 @@ Proxy classes can implement many things in a convenient way without modifying th
 
 * implement the InvocationHandler Interface
 
-    ```
+    ```java
     public Calculator CalcLoggingProxy() {
     
         /*
@@ -99,7 +99,7 @@ Proxy classes can implement many things in a convenient way without modifying th
 
 * Demo Test
 
-    ```
+    ```java
     @Test
     public void ArithmeticCalculatorLoggingProxy() {
     
